@@ -1,0 +1,1 @@
+This repository demonstrates a common error related to Perl's qq operator for string interpolation. The bug.pl file shows incorrect usage leading to syntax errors. The bugSolution.pl file provides the corrected code.  The qq operator, while convenient, requires careful attention to quoting and termination to prevent unexpected behavior and errors.
